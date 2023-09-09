@@ -1,0 +1,11 @@
+
+#EXTM3U
+#EXTINF:-1
+
+https://server101.shop/syfy/tracks-v1a1/mono.m3u8?remote=77.54.53.230&token=8830779b0e43cd3a3c98ce766bfb87e4d35673c6-24df50f8687c5dc14e4f6e2dd42d0ee4-1694284968-1694281368
+
+https://server101.shop/space/tracks-v1a1/mono.m3u8?remote=77.54.53.230&token=0bc2b6f12fb3566d8ab9fbec22d6222cf57e99fc-a6f6f83ddca25e4eb7ba9f3cb63b3f36-1694285541-1694281941
+
+https://server101.shop/hbo-xtreme/tracks-v1a1/mono.m3u8?remote=77.54.53.230&token=ab03b9860c95cfe283677ef34f245c17d6a36a30-09261bd03bb2620271acfc1a33b303a4-1694285624-1694282024
+
+https://server101.shop/hbo2/tracks-v1a1/mono.m3u8?remote=77.54.53.230&token=6d5674ae4408514aa872e8abdf93931d3e1c03c5-9b0e00a842c2025e56e466e62de6d543-1694285696-1694282096
